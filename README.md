@@ -2,7 +2,7 @@
 
 Welcome to Emiliano González's excercise for Smile!
 
-![Demo](https://user-images.githubusercontent.com/20305661/132163312-fb9cbe92-95f6-4e97-ba1c-ca5ceb633341.mov)
+<img src="https://imgur.com/etWABCx"/>
 
 # Part C
 
