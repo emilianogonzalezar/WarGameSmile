@@ -7,7 +7,7 @@ It includes:
 * Kotlin code.
 * Vector drawables provided (but had to modify the higher cards K, Q, J, because they caused a crash because of their size).
 * Comments of all the decisions I made and some explaining the code.
-* Android feature: multi language.
+* Android feature: multi language (Spanish and English).
 * Unit tests.
 * It is also prepared for changing the view in some future work and add more players (as maybe something you've not thought of).
 
