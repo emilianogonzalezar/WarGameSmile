@@ -2,6 +2,15 @@
 
 Welcome to Emiliano González's excercise for Smile!
 
+It includes:
+* Android native app for the War Card Game.
+* Kotlin code.
+* Vector drawables provided (but had to modify the higher cards K, Q, J, because they caused a crash because of their size).
+* Comments of all the decisions I made and some explaining the code.
+* Android feature: multi language.
+* Unit tests.
+* It is also prepared for changing the view in some future work and add more players (as maybe something you've not thought of).
+
 ![](https://media.giphy.com/media/i6oUnmmBnH1pdLtUFD/giphy.gif?cid=790b761122ebbed1da8570e410360af793c30862fa761adc&rid=giphy.gif&ct=g)
 
 # Part C
