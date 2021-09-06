@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WarCardGame por Emiliano</string>
+    <string name="play_again">Volver a jugar</string>
+    <string name="continue_button_text">Continuar</string>
+    <string name="cpu">CPU</string>
+    <string name="player">Jugador</string>
+    <string name="player_wins">Ganaste!</string>
+    <string name="player_lost">Perdiste</string>
+    <string name="cpu_card_image_description">Carta del CPU</string>
+    <string name="player_card_image_description">Carta del jugador</string>
+</resources>
